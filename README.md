@@ -98,17 +98,6 @@ The dashboard includes multiple interactive visualizations covering:
 
 ---
 
-# 📁 Project Files
-Dubai-Real-Estate-Analytics/
-
-│
-├── Dubai_Real_Estate_Dashboard.pbix
-├── Dataset.xlsx
-├── Dashboard.png
-└── README.md
-
----
-
 #  Author
 
 **Asna Abdul Latheef**
