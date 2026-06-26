@@ -1,6 +1,8 @@
-#  Dubai Real Estate Market Analytics Dashboard
+# 🏙️ Dubai Real Estate Market Analytics Dashboard
 
-##  Project Overview
+![Dashboard Preview](Dubai_Real_Estate_Dashboard.png)
+
+## 📌 Project Overview
 
 This project presents an interactive **Dubai Real Estate Market Analytics Dashboard** built using **Power BI**.
 
