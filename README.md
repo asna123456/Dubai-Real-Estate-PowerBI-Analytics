@@ -1,8 +1,8 @@
-# 🏙️ Dubai Real Estate Market Analytics Dashboard
+#  Dubai Real Estate Market Analytics Dashboard
 
 ![Dashboard Preview](Dubai_Real_Estate_Dashboard.png)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an interactive **Dubai Real Estate Market Analytics Dashboard** built using **Power BI**.
 
@@ -84,7 +84,7 @@ The dashboard includes multiple interactive visualizations covering:
 
 #  Dashboard Preview
 
-![Dubai Real Estate Dashboard](dashboard.png)
+![Dubai Real Estate Dashboard](Dubai_Real_Estate_Dashboard.png)
 
 ---
 
@@ -101,13 +101,17 @@ The dashboard includes multiple interactive visualizations covering:
 ---
 
 # 📁 Project Files
+
+```text
+Dubai-Real-Estate-PowerBI-Analytics/
+
 │
 ├── datasets/
-│ ├── area_prices_monthly.csv
-│ ├── metro_stations.csv
-│ ├── off_plan.csv
-│ ├── rentals.csv
-│ └── secondary_sales.csv
+│   ├── area_prices_monthly.csv
+│   ├── metro_stations.csv
+│   ├── off_plan.csv
+│   ├── rentals.csv
+│   └── secondary_sales.csv
 │
 ├── Dubai_Real_Estate_Analytics.pbix
 │
@@ -117,6 +121,7 @@ The dashboard includes multiple interactive visualizations covering:
 │
 └── README.md
 
+```
 ---
 
 #  Author
@@ -124,7 +129,8 @@ The dashboard includes multiple interactive visualizations covering:
 **Asna Abdul Latheef**
 
 Data Analytics Enthusiast  
-Skills: Power BI | Excel | SQL | Data Visualization
+
+**Skills:** Power BI | Excel | SQL | Data Visualization
 
 ---
 
@@ -143,3 +149,19 @@ DAX Calculations
 Interactive Power BI Dashboard  
 ⬇️  
 Business Insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hbbb b
