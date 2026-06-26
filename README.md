@@ -98,6 +98,25 @@ The dashboard includes multiple interactive visualizations covering:
 
 ---
 
+# 📁 Project Files
+│
+├── datasets/
+│ ├── area_prices_monthly.csv
+│ ├── metro_stations.csv
+│ ├── off_plan.csv
+│ ├── rentals.csv
+│ └── secondary_sales.csv
+│
+├── Dubai_Real_Estate_Analytics.pbix
+│
+├── Dubai_Real_Estate_Dashboard_Report.pdf
+│
+├── Dubai_Real_Estate_Dashboard.png
+│
+└── README.md
+
+---
+
 #  Author
 
 **Asna Abdul Latheef**
